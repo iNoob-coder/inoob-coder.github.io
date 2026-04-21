@@ -1,5 +1,7 @@
 google.com, pub-1918839316572256, DIRECT, f08c47fec0942fa0
 
+vungle.com, 66fcf1c90f05bd0011e2366b, DIRECT, c107d686becd2d77
+
 # CAS.ai Updated Apr 15, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
