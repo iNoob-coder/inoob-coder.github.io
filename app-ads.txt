@@ -4,6 +4,9 @@ google.com, pub-1918839316572256, DIRECT, f08c47fec0942fa0
 //liftoff
 vungle.com, 66fcf1c90f05bd0011e2366b, DIRECT, c107d686becd2d77
 
+//meta ads
+facebook.com, 4515545595399197, DIRECT, c3e20eee3f780d68
+
 //appodeal
 #Updated 31.03.2026
 #Appodeal
