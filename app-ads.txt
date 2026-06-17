@@ -8,6 +8,18 @@ vungle.com, 66fcf1c90f05bd0011e2366b, DIRECT, c107d686becd2d77
 facebook.com, 4515545595399197, DIRECT, c3e20eee3f780d68
 
 //toponad
+shortiz.tv, SHTZ1000010, RESELLER
+adtonos.com.PUB927721623.RESELLER
+consumable.com, 2001674, RESELLER, aefcd3d2f45b5070
+openx.com, 563685767, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 26574, RESELLER
+sipo-inc.com, 122558, RESELLER
+smartadserver.com, 5407, RESELLER, 060d053dcf45cbf3
+triplelift.com, 13567, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 107383778, RESELLER
+video.unrulymedia.com, 311790951, RESELLER, 98c21ef9a666c68b
+
+//toponad
 toponad.com, 0fe296d87ab2f9c23b8c3f5ddf0c459c, DIRECT, 1d49fe424a1a456d
 bildapp.net, 164391510, RESELLER
 gitberry.com, 615100018, RESELLER
